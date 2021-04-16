@@ -1,0 +1,575 @@
+html,body {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-color: #454949;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.navigation {
+	background-color: #2b2b2b;
+	color: white;
+	height: 50px;
+
+	animation-name: navegacao;
+	animation-duration: 3s;
+}
+
+.navigation ul {
+	margin-top: 0px;
+	list-style: none;
+	padding-left: 0px;
+	text-align: right;
+	height: 50px;
+}
+
+.navigation li {
+	display: inline-block;
+	padding-left: 20px;
+	padding-right: 20px; 
+	line-height: 50px;
+	font-size: 20px;
+	font-weight: 100;
+}
+
+.navigation a {
+	color: white;
+	text-decoration: none;
+}
+
+.navigation a:hover {
+	color: #f27609;
+}
+
+
+.navigation li.threeline-icon {
+	display: none;
+}
+
+.navigation li.threeline-icon:hover {
+	color: #f27609;
+	cursor: pointer;
+}
+
+
+.capa {
+	color: white;
+}
+
+.capa div {
+	display: inline-block;
+	height: 650px;
+}
+
+
+.profile-pic {
+	width: 40%;
+	text-align: center;
+
+	animation-name: profile-capa;
+	animation-duration: 3s;
+}
+
+.profile-pic img {
+	width: 350px;
+	border-radius: 350px;
+	margin-top: 100px;
+}
+
+
+
+
+.profile-title {
+	vertical-align: top;
+	width: 59%;
+
+	animation-name: titulo-capa;
+	animation-duration: 3s;
+}
+
+.profile-title h1 {
+	text-transform: uppercase;
+	font-size: 60px;
+	margin-top: 200px;
+	font-weight: 400;
+}
+
+.profile-title h2 {
+	font-size: 20px;
+	font-weight: 100;
+	margin-top: -35px;
+}
+
+
+
+
+
+.main {
+	padding: 50px 150px 50px 80px;
+
+
+	animation-name: conteudo;
+	animation-duration: 3s;
+}
+
+.cv-pic {
+	float: right;
+	width: 150px;
+}
+
+.main h1 {
+	color: white;
+	font-weight: normal;
+}
+
+.main h2 {
+	color: white;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: normal;
+	margin-top: 45px;
+}
+
+.main h3 {
+	color: #f27609;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+
+.main p {
+	color: white;
+	font-size: 18px;
+	font-weight: 100;
+	line-height: 25px;
+	text-align: justify;
+}
+
+
+
+
+
+
+.caminho {
+	list-style: none;
+	padding-left: 0;
+	color: gray;
+}
+
+.caminho li {
+	display: inline-block;
+}
+
+.caminho a {
+	color: gray;
+}
+
+
+
+
+
+
+.social-img {
+	width: 40px;
+	margin-right: 15px;
+}
+
+
+.miniatura {
+	width: 300px;
+	height: 300px;
+	display: inline-block;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	overflow: hidden;
+}
+
+.blackbox {
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	opacity: 0;
+	padding-top: 120px;
+	transition: 1.5s;
+}
+
+.blackbox:hover {
+	opacity: 0.85;
+	transition: 1.5s;
+}
+
+.blackbox-text {
+	text-align: center;
+}
+
+.blackbox-text h1 {
+	font-size: 20px;
+	color: #f27609;
+	text-transform: uppercase;
+	margin-top: 0;
+}
+
+.blackbox-text h2 {
+	font-size: 16px;
+	text-transform: none;
+	font-weight: 100;
+	margin-top: 0;
+}
+
+
+
+
+
+
+
+
+.foto-trabalhos {
+	width: 100%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.foto-trabalho1 {
+	width: 50%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+.backlink {
+	color: rgb(250, 138, 63);
+}
+
+
+
+
+
+
+
+
+@keyframes profile-capa {
+	0% {opacity: 0; transform: translate(0px,25px)}
+	100% {opacity: 1; transform: translate(0px,0px)}
+}
+
+@keyframes titulo-capa {
+	0% {opacity: 0; transform: translate(0px,-25px)}
+	100% {opacity: 1; transform: translate(0px,0px)}
+}
+
+@keyframes conteudo {
+	0% {opacity: 0; transform: translate(-25px,0px)}
+	100% {opacity: 1; transform: translate(0px,0px)}
+}
+
+@keyframes navegacao {
+	0% {opacity: 0;}
+	50% {opacity: 0;}
+	100% {opacity: 1;}
+}
+
+
+
+
+
+
+@media (max-width: 1000px) {
+
+
+.navigation li {
+	display: none;
+}
+
+.navigation li.threeline-icon {
+	display: inline-block;
+}
+
+
+
+
+
+
+
+.capa div {
+	display: block;
+	height: auto;
+}
+
+
+
+
+
+
+.profile-pic {
+	width: 100%;
+}
+
+.profile-pic img {
+	margin-top: 0;
+	max-width: 75%;
+}
+
+
+
+
+
+
+.profile-title {
+	text-align: center;
+	width: 100%;
+}
+
+.profile-title h1 {
+	margin-top: 30px;
+	font-size: 40px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.profile-title h2 {
+	margin-top: 5px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
+
+
+.main {
+	padding: 10px 5% 40px 5%;
+}
+
+.main p {
+	text-align: left;
+	line-height: 30px;
+}
+
+
+
+
+.caminho li {
+	font-size: 15px;
+}
+
+
+
+
+.cv-pic {
+	float: none;
+	max-width: 100%;
+	margin-right: 100%;
+}
+
+
+
+
+
+.miniatura {
+	max-width: 100%;
+	background-size: auto 100%;
+}
+
+
+
+.menujs {
+	height: auto;
+}
+
+.menujs ul {
+	height: auto;
+	text-align: center;
+	padding-right: 25%;
+	padding-left: 25%;
+}
+
+.menujs li {
+	display: block;
+	border-bottom: solid gray 1px;
+	width: 100%;
+	padding: 0;
+}
+
+
+
+
+}
+
+/* 
+Page CV CSS
+LE fichier ci dessous indique la mise en forme
+de notre page CV.html
+
+*/
+/* définition des polices personnalisées */
+@font-face 
+{
+    font-family: 'Amble-Regular'; /* ma police normale téléchargée et originale */
+    src: url('fonts/Amble-Regular.ttf');
+}
+@font-face 
+{
+    font-family: 'Quicksand-Bold'; /* ma police en gras téléchargée et originale */
+    src: url('fonts/Quicksand-Bold.ttf');
+}
+
+/* Eléments princiapux de la page */
+body
+{
+	background: rgb(235,232,247);
+    font-family: 'Amble-Regular', 'Quicksand-Bold', "Arial", Arial, "comic sans MS", Verdana, sans-serif;
+    color: black;
+}
+#Bloc_page
+{
+	width: 80%; /* s'adapte à la page du visiteur : ici : 80% de la largeur */
+    margin: auto;
+}
+
+#photo img
+{
+    padding-bottom: 3px;
+}
+.Titre
+{
+    border: 4px black solid;
+    margin: 20px;
+	font-family: "comic sans MS", serif;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    padding: 10px;
+}
+H1
+{
+    border: 6px red double;
+    margin: 10px;
+	font-family: 'Amble-Regular', serif;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    color: blue;
+    text-transform: uppercase;
+}
+
+/* Lien de navigation                                                */
+nav li
+{
+    list-style-type: none;
+    display: flex;
+    font-weight: bold;
+    font-size: 1.4em;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+nav a
+{
+    color: #FF357F;
+}
+nav a:hover
+{
+    color: red;
+    border-bottom: 1px solid #760001;
+}
+
+/* bannière                                                         */
+#banniere_image
+{
+    background: url('image/banniere.jpg');
+    background-size: 100%;
+    border-radius: 10px;
+    height: 100px;
+    position: relative;
+    box-shadow: 0px 4px 4px #1c1a19;
+    margin-bottom: 20px;
+}
+#banniere_description
+{
+    position: absolute;
+    bottom: 0;
+    border-radius: 0px 0px 5px 5px;
+    width: 99.8%;
+    height: 33px;
+    padding-top: 12px;
+    padding-left: 4px;
+    background-color: rgba(30,30,24,0.6);
+    color: white;
+    font-size: 1.2em;
+    
+}
+.bouton_rouge
+{
+    height: 25px;
+    position: absolute;
+    right: 25px;
+    bottom: 5px;
+    background: url('image/fond_degraderouge.png') repeat-x;
+    border: 1px solid #760001;
+    border-radius: 5px;
+    font-size: 1.2em;
+    text-align: center;
+    padding: 3px 8px 0px 8px;
+    color: white;
+    text-decoration: none;
+}
+
+.bouton_rouge img
+{
+    border: 10px;
+}
+
+/* Corps */
+section
+{
+    display: flex;
+    margin-bottom: 20px;
+    background-size: 100%;
+}
+
+article, aside
+{
+    text-align: justify;
+}
+
+article
+{
+    margin-left: 20px;
+    flex: 2;
+}
+article ul
+{
+    font-size: 1.3em;
+}
+article em
+{
+    color: blue;
+}
+aside
+{
+    flex: 1;
+    position: relative;
+    background-color: #986b64;
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-size: 0.9em;
+}
+aside ul
+{
+    list-style-type: none;
+    font-size: 1.3em;
+}
+figcaption
+{
+    color: white;
+    font-size: 1.2em;
+}
+
