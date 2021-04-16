@@ -18,9 +18,6 @@
 			
 					<section>
 					<aside><div id="Gauche_de_page">
-					   <figure>
-								<a href="image/photo_de_profil.jpg" target="_blank"><img src="image/photo_de_profil_mini.jpg" class="Photo_de_profil" alt="Photo_de_profil_Fabrice_HURE" title="cliquez pour agrandir" /><figcaption>Image originale, Cliquez dessus !</figcaption></a>
-						</figure>
 			
 						<H1>SYNTHÈSE DU PROFIL :</H1>
 							<H2>Après 10 ans d’expérience dans la gestion de projets dans l’environnement industriel puis 12 ans d’expérience managériale dans le Facility Management dans le domaine tertiaire, j’ai souhaité faire une pause dans ma carrière professionnelle afin de porter un un projet personnel avec du sens.</br>
@@ -41,8 +38,7 @@
 						<H1>Contact</H1>
 							<H2><ul><li><img src="image/tél.png" alt="">  +33 (0)6.80.33.73.32</li>
 							<li><img src="image\mail.png" alt="">   fabrice.hure.35@gmail.com</li>
-							<li><img src="image\adresse.png" alt="">   15 hameau aristide briand - 35410 Domloup</li></br>
-							<li><img src="image\calendar.png" alt="">   Disponible de suite</li></ul></H2>
+							<li><img src="image\adresse.png" alt="">   15 hameau aristide briand - 35410 Domloup</li></ul></H2>
 			
 						<H1>Intérêts</H1>
 							<H2><ul><li>Sports outdoor : Trail, Kite surf, Voile</li>
@@ -59,7 +55,7 @@
 							
 							<H2>Responsable contrats maintenance – Opteor / Vinci -
 								2008</H2>
-								<em>Gestion et suivi</em> de 60 contrats de Maintenance dans le domaine du service (nettoyage et espaces verts) et du multitechnique, intégration des contrats chez les différents clients. <em>Responsabilité́ d’une équipe</em>, composé de 6 techniciens : <em>Coordination, ordonnancement et gestion</em> des missions des équipes ; <em>optimisation</em> de la rentabilité́ des sites d’exploitation mais également la relation auprès des sous-traitants et des clients. <em>Réalisation et préparation</em> des offres techniques de mise en conformité́ et/ou en sécurité́ des installations
+								<em>Gestion et suivi</em> de 60 contrats de Maintenance dans le domaine du service (nettoyage et espaces verts) et du multitechnique, intégration des contrats chez les différents clients. <em>Responsabilité d’une équipe</em>, composé de 6 techniciens : <em>Coordination, ordonnancement et gestion</em> des missions des équipes ; <em>optimisation</em> de la rentabilité des sites d’exploitation mais également la relation auprès des sous-traitants et des clients. <em>Réalisation et préparation</em> des offres techniques de mise en conformité́ et/ou en sécurité́ des installations
 				   
 							<H2>Chargé d’industrialisation - Edixia - 2005</H2>
 								<em>Conception et industrialisation</em> des systèmes de vision industrielle (Planification, Suivi et Mise en place Nouvel ERP Navision). <em>Chargé de la mise en production</em> des produits de série et des machines complètes (En relation avec la R&D, amélioration continue des capteurs vision, mise en place d’une sous-traitance et méthodes d’industrialisation du produit).

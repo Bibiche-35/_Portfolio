@@ -126,10 +126,10 @@ main {
 }
 
 h1 {
-	color: white;
-	font-size: 25px;
+	color: #ffeb33;
+	font-size: 30px;
 	text-transform: uppercase;
-	font-weight: normal;
+	font-weight: bolder;
 }
 
 h2 {
@@ -155,10 +155,10 @@ p {
 }
 
 #Gauche_de_page h1 {
-	color: white;
-	font-size: 25px;
+	color: #ffeb33;
+	font-size: 30px;
 	text-transform: uppercase;
-	font-weight: normal;
+	font-weight: bolder;
 	margin-top: 45px;
 }
 
