@@ -1,23 +1,34 @@
 html,body {
 	margin: 0px;
 	padding: 0px;
-}
-body {
-	background-color: #657575;
-	font-family: 'Montserrat', sans-serif;
-	width: 100%;
-    height: 100%;
-	align-content: center;
+	height: 100%;
 }
 
+body {
+	display: table;
+	background-color: #8fb3b3;
+	font-family: 'Montserrat', sans-serif;
+	width: 100%;
+	min-height: 100%;
+	align-content: center;
+	position: relative;
+	font-size: 20px;
+}
+footer {
+	display : table-row;
+	position: absolute; 
+	bottom: 0; 
+	left: 0; 
+	right: 0;
+	width: 100%;
+}
 
 .navigation {
 	background-color: #2b2b2b;
 	color: white;
 	height: 50px;
-
 	animation-name: navegacao;
-	animation-duration: 3s;
+	animation-duration: 1s;
 }
 
 .navigation ul {
@@ -46,7 +57,6 @@ body {
 	color: #f27609;
 }
 
-
 .navigation li.threeline-icon {
 	display: none;
 }
@@ -62,7 +72,6 @@ body {
 }
 
 .capa div {
-	display: inline-block;
 	height: 650px;
 }
 
@@ -70,7 +79,6 @@ body {
 .profile-pic {
 	width: 40%;
 	text-align: center;
-
 	animation-name: profile-capa;
 	animation-duration: 3s;
 }
@@ -81,13 +89,9 @@ body {
 	margin-top: 100px;
 }
 
-
-
-
 .profile-title {
 	vertical-align: top;
 	width: 59%;
-
 	animation-name: titulo-capa;
 	animation-duration: 3s;
 }
@@ -105,17 +109,15 @@ body {
 	margin-top: -35px;
 }
 
-
-
-
+main {
+	padding: 0 20px 10px 20px;
+}
 
 .main {
-	padding: 50px 150px 50px 80px;
 	color: blue;
 	text-decoration:aqua;
-	font-size: 1.2em;
-	animation-name: conteudo;
-	animation-duration: 3s;
+	padding: 0 10px 0 10px;
+
 }
 
 .cv-pic {
@@ -123,34 +125,65 @@ body {
 	width: 150px;
 }
 
-.main h1 {
+h1 {
 	color: white;
+	font-size: 25px;
+	text-transform: uppercase;
 	font-weight: normal;
 }
 
-.main h2 {
+h2 {
 	color: white;
-	font-size: 16px;
+	font-size: 20px;
 	text-transform: uppercase;
 	font-weight: normal;
 	margin-top: 45px;
 }
 
-.main h3 {
+h3 {
 	color: #f27609;
-	font-size: 12px;
+	font-size: 15px;
 	text-transform: uppercase;
 }
 
-.main p {
+p {
 	color: white;
-	font-size: 18px;
+	font-size: 20px;
 	font-weight: 100;
 	line-height: 25px;
 	text-align: justify;
 }
 
+#Gauche_de_page h1 {
+	color: white;
+	font-size: 25px;
+	text-transform: uppercase;
+	font-weight: normal;
+	margin-top: 45px;
+}
 
+#Gauche_de_page h2 {
+	color: white;
+	font-size: 20px;
+	text-transform: unset;
+	font-weight: normal;
+	margin-top: 45px;
+}
+
+
+#Gauche_de_page li {
+	color: white;
+
+}
+
+
+.capa h2{
+	color: white;
+	font-size: 20px;
+	text-transform: unset;
+	font-weight: normal;
+	margin-top: 45px;
+}
 
 
 
@@ -158,20 +191,16 @@ body {
 .caminho {
 	list-style: none;
 	padding-left: 0;
-	color: gray;
-}
-
-.caminho li {
-	display: inline-block;
-}
-
-.caminho a {
-	color: gray;
+	color: white;
 }
 
 
 
+a {
+	color: rgb(39, 43, 255);
+	text-transform: capitalize;
 
+}
 
 
 .social-img {
@@ -198,28 +227,7 @@ body {
 	transition: 1.5s;
 }
 
-.blackbox:hover {
-	opacity: 0.85;
-	transition: 1.5s;
-}
 
-.blackbox-text {
-	text-align: center;
-}
-
-.blackbox-text h1 {
-	font-size: 20px;
-	color: #f27609;
-	text-transform: uppercase;
-	margin-top: 0;
-}
-
-.blackbox-text h2 {
-	font-size: 16px;
-	text-transform: none;
-	font-weight: 100;
-	margin-top: 0;
-}
 
 
 
@@ -241,18 +249,44 @@ body {
 }
 
 
-
-
-
-
-
 .backlink {
-	color: rgb(250, 138, 63);
+	color: blue;
 }
 
 
+/* Corps */
+section
+{
+    display: flex;
+    margin-bottom: 20px;
+    background-size: 100%;
+}
 
+article, aside
+{
+    text-align: justify;
+}
 
+article
+{
+    margin-left: 20px;
+    flex: 2;
+}
+aside
+{
+    flex: 1;
+    position: relative;
+    background-color: #433b5d;
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+figcaption
+{
+    color: white;
+    font-size: 1.2em;
+}
 
 
 
@@ -311,12 +345,13 @@ body {
 
 
 .profile-pic {
-	width: 100%;
+	width: 40%;
+	display: block;
 }
 
 .profile-pic img {
 	margin-top: 0;
-	max-width: 75%;
+	max-width: 35%;
 }
 
 
@@ -326,7 +361,7 @@ body {
 
 .profile-title {
 	text-align: center;
-	width: 100%;
+	width: 60%;
 }
 
 .profile-title h1 {
@@ -405,151 +440,4 @@ body {
 }
 
 
-#Bloc_page
-{
-	width: 80%; /* s'adapte à la page du visiteur : ici : 80% de la largeur */
-    margin: auto;
-}
-
-#photo img
-{
-    padding-bottom: 3px;
-}
-.Titre
-{
-    border: 4px black solid;
-    margin: 20px;
-	font-family: "comic sans MS", serif;
-    font-weight: bold;
-    font-size: 2em;
-    text-align: center;
-    color: black;
-    text-transform: uppercase;
-    padding: 10px;
-}
-H1
-{
-    border: 6px red double;
-    margin: 10px;
-	font-family: 'Amble-Regular', serif;
-    font-weight: bold;
-    font-size: 2em;
-    text-align: center;
-    color: blue;
-    text-transform: uppercase;
-}
-
-/* Lien de navigation                                                */
-nav li
-{
-    list-style-type: none;
-    display: flex;
-    font-weight: bold;
-    font-size: 1.4em;
-    padding-bottom: 3px;
-    text-decoration: none;
-}
-nav a
-{
-    color: #FF357F;
-}
-nav a:hover
-{
-    color: red;
-    border-bottom: 1px solid #760001;
-}
-
-/* bannière                                                         */
-#banniere_image
-{
-    background: url('image/banniere.jpg');
-    background-size: 100%;
-    border-radius: 10px;
-    height: 100px;
-    position: relative;
-    box-shadow: 0px 4px 4px #1c1a19;
-    margin-bottom: 20px;
-}
-#banniere_description
-{
-    position: absolute;
-    bottom: 0;
-    border-radius: 0px 0px 5px 5px;
-    width: 99.8%;
-    height: 33px;
-    padding-top: 12px;
-    padding-left: 4px;
-    background-color: rgba(30,30,24,0.6);
-    color: white;
-    font-size: 1.2em;
-    
-}
-.bouton_rouge
-{
-    height: 25px;
-    position: absolute;
-    right: 25px;
-    bottom: 5px;
-    background: url('image/fond_degraderouge.png') repeat-x;
-    border: 1px solid #760001;
-    border-radius: 5px;
-    font-size: 1.2em;
-    text-align: center;
-    padding: 3px 8px 0px 8px;
-    color: white;
-    text-decoration: none;
-}
-
-.bouton_rouge img
-{
-    border: 10px;
-}
-
-/* Corps */
-section
-{
-    display: flex;
-    margin-bottom: 20px;
-    background-size: 100%;
-}
-
-article, aside
-{
-    text-align: justify;
-}
-
-article
-{
-    margin-left: 20px;
-    flex: 2;
-}
-article ul
-{
-    font-size: 1.3em;
-}
-article em
-{
-    color: blue;
-}
-aside
-{
-    flex: 1;
-    position: relative;
-    background-color: #986b64;
-    box-shadow: 0px 2px 5px #1c1a19;
-    border-radius: 5px;
-    padding: 10px;
-    color: white;
-    font-size: 0.9em;
-}
-aside ul
-{
-    list-style-type: none;
-    font-size: 1.3em;
-}
-figcaption
-{
-    color: white;
-    font-size: 1.2em;
-}
 

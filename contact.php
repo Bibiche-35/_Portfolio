@@ -1,34 +1,5 @@
-<!DOCTYPE html>
-
-<html>
-
-	<head>
-		
-		<title>Contato - Seu nome</title>
-
-		<meta charset="utf-8">
-		<link rel="stylesheet" href="css/styles.css">
-		<link href="https://fonts.googleapis.com/css?family=Montserrat:100,400" rel="stylesheet">
-		<script type="text/javascript" src="js/scripts.js"></script>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-	</head>
-
-
-	<body>
-
-		<div id="navigation" class="navigation">
-
-			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="portfolio.html">Portfolio</a></li>
-				<li><a href="curriculum.html">Curriculum vitae</a></li>
-				<li><a href="contact.html">Contact</a></li>
-				<li id="threeline-icon" class="threeline-icon" onclick="openNav()">&Congruent;</li>
-			</ul>
-			
-		</div>
-
+<?php ob_start(); ?>
+<main class="container">
 
 			<div class="main">
 				
@@ -67,9 +38,6 @@
 
 			
 			</div>	
-
-			
-
-	</body>
-
-</html>
+</main>
+<?php $content = ob_get_clean(); ?>
+<?php require('template.php'); ?>
