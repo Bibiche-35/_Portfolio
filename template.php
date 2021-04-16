@@ -11,9 +11,13 @@
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:100,400" rel="stylesheet">
 	<script type="text/javascript" src="js/scripts.js"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 </head>
 <body>
-    <?php include 'header.php'; ?>
+
+
+
+    <?php include 'header.php'; ?>	
     <p><?= $content ?></p>
     <?php include 'footer.php'; ?>
 </body>

@@ -4,11 +4,9 @@
 	<ul class="caminho">
 		<li><a href="index.html">Home</a></li>
 		<li> > </li>
-		<li>Portfolio</li>
-
+		<li><H1>PORTFOLIO</H1></li>
 	</ul>
 
-	<h1>Portfolio</h1><br>
 
 
 	visuel et explication des projets dans le cadre du BTS SIO 

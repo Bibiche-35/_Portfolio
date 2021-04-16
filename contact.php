@@ -5,16 +5,11 @@
 				
 				
 				<ul class="caminho">
-					
 					<li><a href="index.html">Home</a></li>
 					<li> > </li>
-					<li>Contact</a></li>
-
+					<li><H1>CONTACT</H1></li>
 				</ul>
 
-
-				<h1>Contact</h1>
-				<hr>
 			
 
 				<h3>E-mail:</h3>
@@ -30,12 +25,6 @@
 				<a href="" target="_blank"><img class="social-img" src="img/download1.png" alt="Link para o Facebook"></a>
 
 				<a href="" target="_blank"><img class="social-img" src="img/download2.jpg" alt="Link para o Linkedin"></a>
-				
-				<hr>
-
-				<br>
-				<a class="backlink" href="index.html">Retour à la page d'accueil<a>
-
 			
 			</div>	
 </main>
