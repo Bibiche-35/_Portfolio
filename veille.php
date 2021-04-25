@@ -7,12 +7,13 @@
 		<li><H1>VEILLE</H1></li>
 	</ul>
 
-    veille
-	- Open class room
-    - formation diverses E-santé et Webinaire ANS
-	finir avec Visuel du linkedin du maitre de stage)
-    - sites de jeux mimo et autres (sololearn)
-    - application babbel (anglais) et BBC Learning
+	Veille sur réseaux sociaux : 
+	Twitter et linkedin sur profils particuliers : lister les profils
+
+	Installer d'une newsletteur via un agrégateur RSS : https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fblog.wescale.fr%2Ffeed%2F
+	Veille Juridique (voir liens Google), essayer de tout intégrer dans le flux RSS
+
+	Méthode 3 fois par semaine max...
 
 </div>
 </main>

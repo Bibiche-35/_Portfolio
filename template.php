@@ -14,9 +14,6 @@
 
 </head>
 <body>
-
-
-
     <?php include 'header.php'; ?>	
     <p><?= $content ?></p>
     <?php include 'footer.php'; ?>
