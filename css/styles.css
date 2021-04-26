@@ -294,6 +294,87 @@ figcaption
 }
 
 
+.right {
+	width: 100%;
+}
+  
+.right__title {
+	padding: 0.5em 1em;
+	margin: 0;
+	color: white;
+	background-color: #212025;
+}
+  
+.posts {
+	display: flex;
+	flex-wrap: wrap;
+}
+  
+.post {
+	width: 50%;
+	padding: 1.5em;
+	font-size: 0.9em;
+	border: solid #212025 1px; 
+}
+  
+.post__solo{
+	padding: 1.5em;
+	font-size: 0.9em;
+}
+  
+.post__meta {
+	font-size: 0.9em;
+	color: grey;
+	margin: 0.625em 0;
+}
+  
+.post__author-icon {
+	width: 1.4em;
+}
+  
+.post__author {
+	color: black;
+	font-weight: 700;
+}
+  
+.post__link {
+	font-weight: bold;
+	text-decoration: underline;
+}
+  
+.post__link:hover {
+	text-decoration: none;
+}
+  
+.post__category {
+	display: inline-block;
+	text-transform: uppercase;
+	color: white;
+	border-radius: 2px;
+	text-align: center;
+	font-size: 0.8em;
+	font-weight: 700;
+	padding: 3px 6px;
+	background-color: darkgrey;
+	margin-bottom: 0.5em;
+}
+  
+.post__category:hover{
+	color: #212025;
+	text-decoration: none;
+}
+  
+.post__category--color-education{
+	background-color: #e76f51;
+}
+  
+.post__category--color-fun{
+	background-color: #e9c46a;
+}
+  
+.post__category--color-care{
+	background-color: #2a9d8f;
+}
 
 
 @keyframes profile-capa {
@@ -439,10 +520,4 @@ figcaption
 	padding: 0;
 }
 
-
-
-
 }
-
-
-
