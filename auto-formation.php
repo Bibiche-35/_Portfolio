@@ -4,16 +4,20 @@
 	<ul class="caminho">
 		<li><a href="index.html">Home</a></li>
 		<li> > </li>
-		<li><H1>VEILLE</H1></li>
+		<li><H1>AUTO-FORMATION</H1></li>
 	</ul>
+	
+<?php
+//Initialisation $currentPage pour éviter les problèmes d'index.
+$currentPage = 'home';
 
-    Auto-formation :
-	- Application babbel (visuels) et BBC Learning
-	- Open class room (liste des cours)
-    - Formation diverses E-santé MOOC module 1
-	- Mimo
-	- Sololearn
-
+// Vérification que $_GET est une valeur pour récupérer cette dernière
+if (isset ($_GET['page'])){
+    $currentPage = $_GET['page'];
+}
+require __DIR__.'/data/auto-formation.php';
+require __DIR__.'/templates/home.tpl.php';
+?>
 
 </div>
 </main>

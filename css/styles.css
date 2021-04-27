@@ -147,11 +147,12 @@ h3 {
 }
 
 p {
-	color: white;
+	color: rgb(0, 0, 0);
 	font-size: 20px;
 	font-weight: 100;
 	line-height: 25px;
 	text-align: justify;
+	font-weight: bolder;		
 }
 
 em {
@@ -274,12 +275,12 @@ article, aside
 
 article
 {
-    margin-left: 20px;
-    flex: 2;
+    margin-left: 10px;
+	width: 60%;
 }
 aside
 {
-    flex: 1;
+	width: 40%;
     position: relative;
     background-color: #433b5d;
     box-shadow: 0px 2px 5px #1c1a19;
@@ -307,14 +308,19 @@ figcaption
   
 .posts {
 	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-content: flex-start ;
 	flex-wrap: wrap;
 }
   
 .post {
-	width: 50%;
+	width: 700px;
 	padding: 1.5em;
+	margin: 20px;
 	font-size: 0.9em;
 	border: solid #212025 1px; 
+	background-color: lightcoral;
 }
   
 .post__solo{
@@ -345,7 +351,17 @@ figcaption
 .post__link:hover {
 	text-decoration: none;
 }
-  
+
+.post__img {
+	width: 900px;
+	height: auto;
+	margin-right: 50px;
+	float: left;
+}
+.articletexte{
+	font-size: 1.2em;
+}
+
 .post__category {
 	display: inline-block;
 	text-transform: uppercase;

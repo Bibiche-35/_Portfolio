@@ -3,96 +3,113 @@
 $dataArticleList = [
 
     1 => [
-    "title" => "Lorem ipsum dolor article 1",
-    "author" => "Jean Bulldog",
-    "content" =>  "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi accusantium iure odio fugiat?
-    Inventore ab alias et! Ex, nesciunt suscipit corporis tempore molestias odio assumenda
-    temporibus quo cumque quibusdam inventore voluptatem debitis quia facilis! Culpa nisi temporibus
-    quae repudiandae harum labore vero dolorum inventore aspernatur, ad rerum, natus delectus vel!
-    Aspernatur mollitia, molestiae ipsum, accusamus eum architecto a aliquam quisquam ipsa dicta
-    optio! Harum, adipisci fugiat nulla provident culpa eligendi? Ducimus nostrum quis beatae amet
-    perspiciatis, impedit, rem ipsam non aut hic quam dolorum excepturi ea, architecto ad fuga.
-    Beatae possimus non accusamus. Illum, inventore. Maxime qui omnis dolore. Enim placeat suscipit
-    nobis excepturi iure, veniam rem neque voluptas quam cumque officiis iste est dolores officia,
-    optio aspernatur fugiat ex ab dolore vitae ipsum ipsam! Vel numquam aliquid explicabo ipsa
-    repellendus odit adipisci iure! Optio odio nesciunt ea temporibus reiciendis alias
-    exercitationem dicta, quis velit beatae enim tenetur doloremque. Ut corrupti, quibusdam
-    perferendis nisi magni autem repellat eum sint. Reprehenderit dicta veritatis earum! Animi
-    consequuntur explicabo labore cupiditate eum quidem quo, voluptatem culpa autem quod corrupti
-    dignissimos similique molestiae voluptatum dolores, eveniet aliquam rem possimus aut ipsum,
-    maiores nostrum mollitia? Quisquam, dolor eum? Aliquam sapiente omnis, distinctio sunt cumque
-    quas culpa quos similique reiciendis ipsam id velit soluta quod minima delectus quasi ipsa
-    debitis animi? Nobis aliquid repellendus dignissimos in fugiat laboriosam facilis officiis
-    veniam molestias. Cupiditate non maiores eum adipisci praesentium officiis suscipit? Quisquam
-    dignissimos facere quam aliquid corrupti eligendi aliquam dolorem mollitia, maxime recusandae
-    illo obcaecati nisi blanditiis numquam nesciunt consequatur quae nihil accusantium. Ad eligendi
-    quibusdam velit, eos at aliquid a. Nostrum velit tempora accusantium beatae quod fugit maiores
-    et reprehenderit porro veritatis, qui sint mollitia, possimus iusto necessitatibus repudiandae
-    reiciendis deleniti voluptatibus! Ratione iusto explicabo sit consequatur consectetur ducimus
-    cupiditate praesentium, voluptate magni animi reiciendis, voluptates libero reprehenderit saepe
-    eius quos nam illo ab officia doloremque corporis excepturi aliquam! Aperiam natus distinctio
-    totam dolorum, facilis esse accusamus amet repudiandae quis. Quia perspiciatis, sint dolores
-    reiciendis, quibusdam natus a nemo beatae, quam temporibus laudantium dolorum iste! Culpa quas
-    nobis esse vitae veniam sint ex pariatur neque placeat laborum, perspiciatis nihil tempora amet
-    architecto recusandae sit impedit magni iste quod eius autem rem consequuntur vel eos.
-    Aspernatur fugit voluptate voluptas aut quisquam exercitationem sapiente possimus aliquam
-    blanditiis sequi? Accusamus, dignissimos expedita tempore sed, aliquam iure tempora nobis quae
-    perferendis, suscipit delectus saepe. Praesentium rem ipsa iure vitae molestias.",
-    "category" => "Education",
-    "categoryColor" => "education" ,
-    "date" => "le 22 mars 2020",
-    "imgauthor" => "../images/profil-avatar-homme-icone-ronde.jpg"
+        "title" => "Application BABBEL",
+        "category" => "Anglais",
+        "categoryColor" => "Anglais" ,
+        "author" => "Fabrice HURÉ" ,
+        "date" => "début 06/2020" ,
+        "content" =>  "Abonnement depuis le 2 Juin 2020 pour réaliser une remise à niveau avec perfectionnement.<br/> 
+        Des millions de personnes utilisent Babbel : l’application des experts linguistiques ! Toutes les leçons sont basées sur des conversations réelles, vous aidant à apprendre une langue et à la parler dès le début.<br/>
+        Pourquoi apprendre une langue avec les cours Babbel ?<br/>
+        ÉCOUTEZ, PARLEZ, ÉCRIVEZ : suivez des cours préparés sur mesure pour les francophones.<br/>
+        UNE SITUATION, UN COURS : apprenez à parler anglais sur des sujets variés tels que les voyages et le travail.<br/>
+        MISEZ SUR L’EXPRESSION ORALE : pratiquez et améliorez votre prononciation avec la reconnaissance vocale.",
+        "img" => "image/babbel.jpg",
+        "link" => "https://my.babbel.com/dashboard",
     ],
 
     2 => [
-    "title" => "Lorem ipsum dolor article 2",
-    "author" => "Claude Teckel",
-    "content" =>  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos id impedit at quo, expedita iure, molestias error ullam distinctio vel.",
-    "category" => "Bien-être",
-    "categoryColor" => "care" ,
-    "date" => "le 14 février 2020",
-    "imgauthor" => "../images/profil-avatar-beagles.png" 
+    "title" => "Application BBC Learning",
+    "category" => "Anglais",
+    "categoryColor" => "Anglais" ,
+    "author" => "Fabrice HURÉ" ,
+    "date" => "début 02/2021" ,
+    "content" =>  "Sans abonnement, Application gratuite. Apprendre et approfondir les connaissances de la langue anglaise depuis votre smartphone grâce à BBC Learning English pour Android. Scindée en trois grandes sections, cette application dispose pas moins de 400 leçons rangées par années de 2008 à aujourd’hui. <br/>
+    BBC Learning English est principalement centré sur l’écoute audio de conversations, d’interviews et de textes lus avec pour chaque leçon une retranscription complète du texte pour une meilleure compréhension. <br/>
+    Un système de playlists est également disponible avec la possibilité de pouvoir télécharger des leçons sur votre mobile afin de pouvoir les écouter en mode hors ligne. Simple d’utilisation et riche en contenus BBC Learning English est une façon originale d’apprendre la langue de Shakespeare",
+    "img" => "image/BBCLearning.jpg",
+    "link" => "https://www.bbc.co.uk/search?q=English+at+work",
     ],
+
     3 => [
-    "title" => "Lorem ipsum dolor article 3",
-    "author" => "Emma Rottweiler",
-    "content" =>  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Location magnam, distinctio! Vero blanditiis nisi veritatis id perferendis, quod quaerat necessitatibus ullam nobis quidem ipsam optio sit quibusdam ad quae voluptatibus doloremque!",
-    "category" => "Bien-être",
-    "categoryColor" => "care" ,
-    "date" => "le 30 janvier 2020",
-    "imgauthor" => "../images/profil-avatar-femme-icone-ronde-rose.jpg"
+    "title" => "OPEN CLASS ROOM",
+    "category" => "Informatique - Autres",
+    "categoryColor" => "Informatique" ,
+    "author" => "Fabrice HURÉ" ,
+    "date" => "début 07/2020" ,
+    "content" =>  "Sans abonnement, Application gratuite. OpenClassrooms est un site web de formation en ligne qui propose à ses membres des cours certifiants et des parcours débouchant sur des métiers en croissance. <br/>
+    C’est une plateforme de formation qui propose des cours en ligne dans différents domaines liés à l’informatique (design, conception, projet, entreprenariat, …).<br/>
+    Ses contenus sont réalisés en interne, par des écoles, des universités, des entreprises partenaires comme Microsoft ou IBM, ou historiquement par des bénévoles.",
+    "img" => "image/OpenClassRoom.jpg",
+    "link" => "https://openclassrooms.com/fr/dashboard/courses#courses-taken",
     ],
+
     4 => [
-    "title" => "Lorem ipsum dolor article 4",
-    "author" => "Mathilde Beagles",
-    "content" =>  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pirates molestias molestiae, obcaecati et. Veritatis, laudantium!",
-    "category" => "Loisirs",
-    "categoryColor" => "fun" ,
-    "date" => "le 15 janvier 2020",
-    "imgauthor" => "../images/profil-avatar-femme-icone-ronde.jpg"
+    "title" => "Formatic E-Santé",
+    "category" => "E-santé - MOOC Découverte",        
+    "categoryColor" => "Projets" ,
+    "author" => "Fabrice HURÉ" ,
+    "date" => "début 10/2020" ,
+    "content" =>  "Permettre aux professionnels et étudiants en santé de :<br/>
+    * Identifier les enjeux de la e-santé pour améliorer la qualité des services aux usagers<br/>
+    * Découvrir et appliquer les règles de protection des données de santé<br/>
+    * Découvrir, utilizer dans le contexte de la pandémie Covid19, différentes solutions esanté
+    Cette formation s’adresse à tous les étudiants et professionnelsdu secteur sanitaire et médico-social<br/>
+    * médecins, pharmaciens, sages femmes, infirmiers, kinés, orthophonistes….. en établissement ou à
+    domicile et en liberal, formateurs du secteur santé<br/>
+    • personnels des DSI, prestataires solutions e-santé et aux usagers du système de santé
+    Pas de pré-requis exigés" ,
+    "img" => "image/FormaticSanté_BadgeModuleEsanté.jpg",
+    "link" => "https://mooc-esante.org/",
     ],
+
+
     5 => [
-    "title" => "Lorem ipsum dolor article 5",
-    "author" => "Charles Bouvier",
-    "content" =>  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Celtics nostrum obcaecati sit odit eveniet, unde hic animi molestiae, odio a quia aut perspiciatis dicta.",
-    "category" => "Education",
-    "categoryColor" => "education" ,
-    "date" => "le 20 décembre 2019",
-    "imgauthor" => "../images/profil-avatar-homme-icone-ronde-orange.jpg"
+    "title" => "MIMO",
+    "category" => "Informatique HMLT/CSS",
+    "categoryColor" => "Informatique" ,
+    "author" => "Fabrice HURÉ" ,
+    "date" => "début 10/2020" ,
+    "content" =>  "Sans abonnement, Application gratuite, exclusivement sur Mobile. Apprendre à coder peut être simple et amusant.<br/>
+    Familiarisez-vous avec les langages de programmation comme HTML, JavaScript et Python et commencez à transformer vos idées en applications, jeux et sites Web. Mimo crée votre parcours d’apprentissage personnalisé, composé de petits exercices qui s’intègrent parfaitement dans votre quotidien et vous motivent.<br/>
+    Rejoignez plus de 5 millions de développeurs et programmez. Vous pouvez aussi coder !<br/>
+    Meilleure application de perfectionnement personnel de 2018 sur Google Play.<br/>  
+    Choisissez votre niveau d'expérience<br/>
+    • Débutant (vous êtes sur le point d'écrire vos premières lignes de code)<br/>
+    • Intermédiaire (vous avez construit de petits programmes ou sites Web)",
+    "img" => "image/mimo.jpg",
+    "link" => "https://getmimo.com/settings",
     ],
+
+            
     6 => [
-    "title" => "Lorem ipsum dolor article 6",
-    "author" => "Claude Teckel",
-    "content" =>  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nascar vitae assumenda reiciendis doloremque, quisquam.",
-    "category" => "Loisirs",
-    "categoryColor" => "fun" ,
-    "date" => "le 25 octobre 2019",
-    "imgauthor" => "../images/profil-avatar-beagles.png"
+    "title" => "SOLOLEARN",
+    "category" => "Informatique JAVA",
+    "categoryColor" => "Informatique" ,
+    "author" => "Fabrice HURÉ" ,
+    "date" => "début 10/2020" ,
+    "content" =>  "Sans abonnement, Application gratuite, pratiqué sur mobile.<br/>
+    SoloLearn: Learn to Code for Free est une application qui,comme son nom le suggère, t'enseigne comment coder directement de ton Android. Tu peux apprendre C++, Java, HTML, Python 3, SQL, PHP, Ruby, et beaucoup plus. Tout ce que tu dois faire c'est de choisir le cours que tu veux et de commencer à apprendre!<br/>
+    Que tu aies déjà de l'expérience en codage ou pas, SoloLearn: Learn to Code for Free te permet de commencer à créer et compiler ton propre code. Tu vas commencer avec les fondements de chaque langage de programmation,bien sur, tu seras bientôt capable d'écrire ton propre code. Ou, si tu ne veux pas, commencer du début, tu peux facilement passer des étapes.<br/>
+    Toutes les leçons dans SoloLearn: Learn to Code for Free sont faciles à comprendre et arrivent avec des vidéos complémentaires et des exercices. L'application traque ta progression dans chaque cours que tu prends, ce qui est particulièrement utile si tu prends plus d'un cours à la fois.<br/>
+    SoloLearn: Learn to Code for Free est une excellente application éducationnelle. Avec ça, tu peux apprendre à coder dans 12 langues différentes que tu aies de l'expérience ou non.",
+    "img" => "image/sololearn.jpg",
+    "link" => "https://www.sololearn.com/profile/20149606",
     ],
 
-    ];
-
-
-
+    7 => [
+    "title" => "FUN MOOC",
+    "category" => "Formation Management",
+    "categoryColor" => "Projets" ,
+    "author" => "Fabrice HURÉ" ,
+    "date" => "début 10/2020" ,
+    "content" =>  "Dans ce MOOC « Du manager au leader, devenir agile et collaboratif », qui s'adresse à tous, quel que soit votre métier, quel que soit votre secteur d'activité, on vous donnera les principes de base pour savoir manager à l'ère du numérique. <br/>
+    L'idée, c'est de vous donner les compétences de base, les compétences numériques pour comprendre cette civilisation. Ensuite, les compétences d'agilité pour travailler différemment.<br/>
+    Les compétences de design thinking pour innover au quotidien et, bien sûr, cette année en exclusivité, les compétences de collaboration pour créer de l'intelligence collective et être encore plus performant demain, quand vous allez devoir transformer votre métier avec l'intelligence artificielle. <br/>
+    Vous l'avez bien compris, ce MOOC est une brique essentielle pour savoir manager.",
+    "img" => "image/managerauleader.jpg",
+    "link" => "https://lms.fun-mooc.fr/dashboard",
+    ],
+];
 
 ?>

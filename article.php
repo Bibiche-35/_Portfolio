@@ -1,7 +1,7 @@
 <?php ob_start(); ?>
 <main class="container">
     <?php
-require __DIR__ . '/data/datas.php';
+require __DIR__ . '/data/auto-Formation.php';
 require __DIR__ . '/templates/article.tpl.php';
 ?>
 </main>
