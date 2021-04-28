@@ -14,11 +14,11 @@
 
 	<h1>Projet Communicant Santé</h1>
 	<h2>🙏 Quel chemin depuis la rupture avec mon emploi en Janvier 2019... Quelle fierté et quelle satisfaction d'avoir porté la réalisation de projections débats partout en france (45 projections) afin d'informer les patients sur une offre de soin innovante et de sensibiliser les soignants sur la nécessité de co-construire le projet de vie des patients. </br>
-	Cela ne récompense pas l'exploit sportif ou la qualité du film, mais bien la démarche et le travail communicant du projet et ses différents supports :</br>
-	- Plaidoyer sur la dialyse longue nocturne </br>
+	Cela récompense la démarche et le travail communicant du projet et ses différents supports :</br>
+	- Plaidoyer sur l'offre de soin</br>
 	- Dossier de presse du film, Affiche et Flyer Type</br>
 	- Package communicant</br>
-	- Réseaux sociaux (Facebook, twitter et Instagram) </br>
+	- Réseaux sociaux (Facebook, Twitter et Instagram) </br>
 	- Nombreux Articles Presse, émission TV et Radio</br></h2>
 
 	<img class="photosantevisuel" src="image/accueil.jpg">

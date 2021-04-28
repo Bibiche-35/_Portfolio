@@ -2,7 +2,7 @@
 <main class="container">
 <div class="main">
 	<ul class="caminho">
-		<li><a href="index.html">Home</a></li>
+		<li><a href="index.php">Home</a></li>
 		<li> > </li>
 		<li><H1>PORTFOLIO</H1></li>
 	</ul>

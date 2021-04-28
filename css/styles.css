@@ -6,7 +6,7 @@ html,body {
 
 body {
 	display: table;
-	background-color: #8fb3b3;
+	background-color: #b3d4d4;
 	font-family: 'Montserrat', sans-serif;
 	width: 100%;
 	min-height: 100%;
@@ -73,6 +73,10 @@ footer {
 	height: 500px;
 }
 
+.bulletin {
+	float: right;
+}
+
 
 .profile-pic {
 	width: 40%;
@@ -136,7 +140,7 @@ h1 {
 }
 
 h2 {
-	color: white;
+	color: rgb(8, 82, 143);
 	font-size: 20px;
 	text-transform: uppercase;
 	font-weight: normal;
@@ -187,7 +191,7 @@ em {
 
 
 .capa h2{
-	color: white;
+	color: rgb(8, 82, 143);
 	font-size: 20px;
 	text-transform: unset;
 	font-weight: normal;

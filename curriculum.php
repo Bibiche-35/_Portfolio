@@ -2,7 +2,7 @@
 <main class="container">
 
 			<ul class="caminho">
-				<li><a href="index.html">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<li> > </li>
 				<li><H1>CURRICULUM VITAE :</H1></li>
 			</ul>
