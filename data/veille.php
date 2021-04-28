@@ -45,7 +45,7 @@ $dataArticleList = [
         "author" => "Fabrice HURÉ" ,
         "date" => "début 04/2021" ,
         "content" =>  "Blogs de développeur(euse)s francophones : <br/>
-        Liens vers les blogs de vrais développeu... des vraies personnes, accessbile depuis mes favoris Chrome. Des gens qui partagent leur passion et qui ont plaisir à transmettre leur savoir en fonction de différentes technologies;<br/>",
+        Liens vers les blogs de vrais développeurs... des vraies personnes, accessbile depuis mes favoris Chrome. Des gens qui partagent leur passion et qui ont plaisir à transmettre leur savoir en fonction de différentes technologies;<br/>",
         "img" => "image/blog.jpg",
         "link" => "https://blog.shevarezo.fr/category/devweb/1",
         ],

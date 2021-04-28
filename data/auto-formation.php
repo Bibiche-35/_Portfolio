@@ -121,6 +121,32 @@ $dataArticleList = [
     "img" => "image/managerauleader.jpg",
     "link" => "https://lms.fun-mooc.fr/dashboard",
     ],
-];
+    
+    38 => [
+        "title" => "CODINGAME",
+        "category" => "Apprentissage",
+        "categoryColor" => "Coding" ,
+        "author" => "Fabrice HURÉ" ,
+        "date" => "début 10/2020" ,
+        "content" =>  "CodinGame est un site consacré à la programmation informatique ludique, proposant d’un côté des casse-têtes de difficulté croissante à résoudre dans l’un des vingt-cinq langages de programmation disponibles, et de l’autre des jeux d’intelligence artificielle multijoueurs, ou des défis de résolution de problèmes en temps limité, ou de code golf.",
+        "img" => "image/codinggame.jpg",
+        "link" => "https://www.codingame.com/ide/puzzle/the-descent",
+        ],
+
+    39 => [
+            "title" => "CODEWARS",
+            "category" => "Apprentissage",
+            "categoryColor" => "Coding" ,
+            "author" => "Fabrice HURÉ" ,
+            "date" => "début 10/2020" ,
+            "content" =>  "Codewars est une communauté d'apprentissage pour les développeurs informatiques.</br>
+            Sur la plateforme, les développeurs se perfectionnent en résolvant des exercices de programmation appelés kata1,2. </br>
+            Ces exercices ciblent des compétences informatiques variées disponibles dans de nombreux langages3 et les développeurs les complètent au moyen d'un EDI en ligne4,5,6. </br>
+            Les développeurs peuvent comparer leurs solutions et créer leurs propres kata7. </br>
+            Les katas sont classés par ordre de difficulté, allant de 8e kyu (le niveau d'entrée) à 1er kyu (le plus haut niveau actuel).",
+            "img" => "image/codewars.jpg",
+            "link" => "https://www.codewars.com/users/Bibiss",
+            ],
+]
 
 ?>

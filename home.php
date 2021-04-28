@@ -12,21 +12,6 @@
 		⚕️ En veille permanent sur l'accélération du virage numérique #MaSanté2022, je suis fortement motivé pour m'investir professionnellement dans cette transformation afin d’évoluer les usages vers plus de sécurité et d’interopérabilité au service des patients et des professionnels.</br></h2>
 	</div>
 
-	<h1>Projet Communicant Santé</h1>
-	<h2>🙏 Quel chemin depuis la rupture avec mon emploi en Janvier 2019... Quelle fierté et quelle satisfaction d'avoir porté la réalisation de projections débats partout en france (45 projections) afin d'informer les patients sur une offre de soin innovante et de sensibiliser les soignants sur la nécessité de co-construire le projet de vie des patients. </br>
-	Cela récompense la démarche et le travail communicant du projet et ses différents supports :</br>
-	- Plaidoyer sur l'offre de soin</br>
-	- Dossier de presse du film, Affiche et Flyer Type</br>
-	- Package communicant</br>
-	- Réseaux sociaux (Facebook, Twitter et Instagram) </br>
-	- Nombreux Articles Presse, émission TV et Radio</br></h2>
-
-	<img class="photosantevisuel" src="image/accueil.jpg">
-	<img class="photosante" src="image/SpeedVisionFestivalCommunication.jpg">
-	<img class="photosante" src="image/image2.jpg">
-	<img class="photosante" src="image/PrixCoupdeCoeurFestivalCommunication.jpg">
-	<img class="photosante" src="image/PrixEtudiantsFestivalCommunication.jpg">
-	<img class="photosante" src="image/image1.jpg">
 </div>
 </main>
 <?php $content = ob_get_clean(); ?>

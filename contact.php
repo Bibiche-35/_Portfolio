@@ -30,9 +30,6 @@
 
 				<a href="https://vimeo.com/user87724430" target="_blank"><img class="social-img" src="image/vimeo.png" alt="Link vimeo"></a>
 	
-				<div class="bulletin">			
-					<img src="image/bulletinPremierSemestre.jpg" alt="photo">
-				</div>
 			</div>	
 
 

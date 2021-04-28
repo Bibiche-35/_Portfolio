@@ -148,8 +148,8 @@ h2 {
 }
 
 h3 {
-	color: #ff7700;
-	font-size: 15px;
+	color: red;
+	font-size: 20px;
 	text-transform: uppercase;
 }
 
@@ -338,7 +338,7 @@ figcaption
   
 .post__meta {
 	font-size: 0.9em;
-	color: grey;
+	color: blue;
 	margin: 0.625em 0;
 }
   
@@ -380,7 +380,7 @@ figcaption
 	font-size: 0.8em;
 	font-weight: 700;
 	padding: 3px 6px;
-	background-color: darkgrey;
+	background-color:  #e76f51;
 	margin-bottom: 0.5em;
 }
   
