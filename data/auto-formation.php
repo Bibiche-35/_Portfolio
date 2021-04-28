@@ -121,6 +121,18 @@ $dataArticleList = [
     "img" => "image/managerauleader.jpg",
     "link" => "https://lms.fun-mooc.fr/dashboard",
     ],
+
+    40 => [
+        "title" => "ANSSI",
+        "category" => "Formation Cyber sécurité",
+        "categoryColor" => "Sécurité" ,
+        "author" => "Fabrice HURÉ" ,
+        "date" => "début 08/2020" ,
+        "content" =>  "Bienvenue sur le MOOC de l'ANSSI. (Agence nationale de la sécurité des systèmes d’information
+        Vous y trouverez l’ensemble des informations pour vous initier à la cybersécurité, approfondir vos connaissances, et ainsi agir efficacement sur la protection de vos outils numériques. Ce dispositif est accessible gratuitement. Le suivi intégral de ce dispositif vous fera bénéficier d’une attestation de réussite..",
+        "img" => "image/anssi.jpg",
+        "link" => "https://secnumacademie.gouv.fr/apprenant/default.php",
+        ],
     
     38 => [
         "title" => "CODINGAME",

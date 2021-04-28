@@ -26,7 +26,7 @@
 
 				<a href="https://www.linkedin.com/feed/" target="_blank"><img class="social-img" src="image/download2.jpg" alt="Link Linkedin"></a>
 
-				<a href="https://www.linkedin.com/feed/" target="_blank"><img class="social-img" src="image/twitter.png" alt="Link twitter"></a>
+				<a href="https://twitter.com/LMDSlefilm" target="_blank"><img class="social-img" src="image/twitter.png" alt="Link twitter"></a>
 
 				<a href="https://vimeo.com/user87724430" target="_blank"><img class="social-img" src="image/vimeo.png" alt="Link vimeo"></a>
 	
