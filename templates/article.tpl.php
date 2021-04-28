@@ -14,7 +14,9 @@ $idArticle = $_GET['id'];
                         <div class = "articlepost">
                         <img src="<?php echo ($dataArticleList["$idArticle"]["img"]) ?>" class="post__img">
                         <p><?php echo ($dataArticleList["$idArticle"]["content"]) ?></p></br>
-                        <a href="portfolio.php" class="post__link">Back to home</a>
+                        <script>
+                            document.write('<a href="' + document.referrer + '" class="post__link">Go Back</a>');
+                        </script>
                     </div> 
                 </div>
             </main>
