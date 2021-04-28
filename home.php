@@ -6,10 +6,27 @@
 	</div>
 	<div class="portfolio-title">
 		<h1>Fabrice HURÉ</h1>
-		<h2>Après 10 ans d’expérience dans la gestion de projets dans l’environnement industriel puis 12 ans d’expérience managériale dans le Facility Management dans le domaine tertiaire, j’ai souhaité faire une pause dans ma carrière professionnelle afin de porter un film-documentaire à travers toute la France. Ce projet personnel m'a permis avec succès de fédérer à travers l'organisation de projections débats et de mobiliser les acteurs autour d’une offre de soin innovante dans le secteur de la santé.</br>
-		Afin de préparer ma reconversion professionnelle, en Avril 2020, j'ai réalisé un bilan de compétences qui a permis d’identifier ma volonté de porter des projets numériques innovants, si possible dans le domaine de la e-santé, dans un rôle d'interface entre le client et les équipes techniques, de marketing et de production.</br> 
-		Je suis actuellement étudiant en BTS Services Informatiques aux Organisations spécialité SLAM (Applications métiers) au GRETA à Saint Malo où l'aspiration pour les outils numériques se confirme et me pousse à continuer dans cette voie.</h2>
+		<h2>📅 Actuellement étudiant en BTS Services Informatiques aux Organisations spécialité SLAM (Solutions logicielles et applications métiers) au GRETA à Saint Malo (jusqu'au 25/06/2021). </br></br>
+		Mes aspirations pour la gestion de projets numériques se confirme. C'est ainsi que je viens d'être accepté à l'ENI à Rennes, afin de prolonger mon apprentissage : BAC+4 Concepteur Développeur d’Applications en alternance sur 2 ans avec une disponibilité au 01/08/2021.</br></br>
+		🤝 En avril 2020, mon bilan de compétences a permis d’identifier ma volonté d'être un véritable véritable "Facilitateur" au sein d'une organisation afin de porter des projets numériques innovants, de préférence dans le domaine de la E-santé.</br> J'ai toujours été stimulé par les projets transverses (Achat, Méthode, Amélioration continue, Logistique, QHSE, Communication et Moyens généraux) et l'animation des outils numériques (GMAO, ERP, SAP, Dématérialisation, Transformation digitale).</br></br>
+		⚕️ En veille permanent sur l'accélération du virage numérique #MaSanté2022, je suis fortement motivé pour m'investir professionnellement dans cette transformation afin d’évoluer les usages vers plus de sécurité et d’interopérabilité au service des patients et des professionnels.</br></h2>
 	</div>
+
+	<h1>Projet Communicant Santé</h1>
+	<h2>🙏 Quel chemin depuis la rupture avec mon emploi en Janvier 2019... Quelle fierté et quelle satisfaction d'avoir porté la réalisation de projections débats partout en france (45 projections) afin d'informer les patients sur une offre de soin innovante et de sensibiliser les soignants sur la nécessité de co-construire le projet de vie des patients. </br>
+	Cela ne récompense pas l'exploit sportif ou la qualité du film, mais bien la démarche et le travail communicant du projet et ses différents supports :</br>
+	- Plaidoyer sur la dialyse longue nocturne </br>
+	- Dossier de presse du film, Affiche et Flyer Type</br>
+	- Package communicant</br>
+	- Réseaux sociaux (Facebook, twitter et Instagram) </br>
+	- Nombreux Articles Presse, émission TV et Radio</br></h2>
+
+	<img class="photosantevisuel" src="image/accueil.jpg">
+	<img class="photosante" src="image/SpeedVisionFestivalCommunication.jpg">
+	<img class="photosante" src="image/image2.jpg">
+	<img class="photosante" src="image/PrixCoupdeCoeurFestivalCommunication.jpg">
+	<img class="photosante" src="image/PrixEtudiantsFestivalCommunication.jpg">
+	<img class="photosante" src="image/image1.jpg">
 </div>
 </main>
 <?php $content = ob_get_clean(); ?>

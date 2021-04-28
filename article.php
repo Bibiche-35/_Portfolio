@@ -1,9 +1,6 @@
 <?php ob_start(); ?>
 <main class="container">
 <?php
-echo $_GET["id"];
-?>
-<?php
 if ($_GET["id"] >= 10 && $_GET["id"] < 20) :
     require './data/portfolio.php';
 endif ;

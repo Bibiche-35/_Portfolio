@@ -63,7 +63,6 @@ $dataArticleList = [
     "link" => "https://mooc-esante.org/",
     ],
 
-
     25 => [
     "title" => "MIMO",
     "category" => "Informatique HMLT/CSS",
@@ -81,7 +80,6 @@ $dataArticleList = [
     "link" => "https://getmimo.com/settings",
     ],
 
-            
     26 => [
     "title" => "SOLOLEARN",
     "category" => "Informatique JAVA",
