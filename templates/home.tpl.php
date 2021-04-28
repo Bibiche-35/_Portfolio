@@ -3,7 +3,7 @@
             <div class="posts">
 
             <?php foreach ($dataArticleList as $id => $anArticle) : ?>
-                    <article class="post">
+                    <div class="post">
                         <a href="" class="post__category post__category--color-<?=$anArticle["categoryColor"];?>"><?= $anArticle["category"];?></a>
                         <h3><?php echo $anArticle["title"]; ?></h3>
                         <div class="post__meta">
@@ -15,7 +15,7 @@
                         $lightContent = substr($content, 0, 150);
                         echo $lightContent." ..."; ?> </p>
                         <a href="article.php?page=article&id=<?= $id; ?>">Continue reading</a>
-                    </article>
+                    </div>
             <?php endforeach; ?>
             </div>
         </main>

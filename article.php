@@ -1,7 +1,18 @@
 <?php ob_start(); ?>
 <main class="container">
-    <?php
-require __DIR__ . '/data/auto-Formation.php';
+<?php
+echo $_GET["id"];
+?>
+<?php
+if ($_GET["id"]>30) {
+    require __DIR__ . '/data/portfolio.php';
+}
+elseif ($_GET["id"]<20) {
+    require __DIR__ . '/data/veille.php';
+}
+else {
+    require __DIR__ . '/data/auto-Formation.php';
+}
 require __DIR__ . '/templates/article.tpl.php';
 ?>
 </main>

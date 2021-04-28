@@ -81,6 +81,7 @@ footer {
 	text-align: center;
 	animation-name: profile-capa;
 	animation-duration: 3s;
+	float: left;
 }
 
 .profile-pic img {
@@ -315,17 +316,18 @@ figcaption
 }
   
 .post {
-	width: 700px;
+	width: 40%;
 	padding: 1.5em;
-	margin: 20px;
+	margin: 10px;
 	font-size: 0.9em;
 	border: solid #212025 1px; 
-	background-color: lightcoral;
+	background-color: rgb(255, 218, 218);
 }
   
 .post__solo{
 	padding: 1.5em;
 	font-size: 0.9em;
+	width: 80%;
 }
   
 .post__meta {
@@ -358,6 +360,7 @@ figcaption
 	margin-right: 50px;
 	float: left;
 }
+
 .articletexte{
 	font-size: 1.2em;
 }

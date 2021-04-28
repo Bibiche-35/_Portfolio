@@ -7,6 +7,18 @@
 		<li><H1>VEILLE</H1></li>
 	</ul>
 
+<?php
+//Initialisation $currentPage pour éviter les problèmes d'index.
+$currentPage = 'home';
+
+// Vérification que $_GET est une valeur pour récupérer cette dernière
+if (isset ($_GET['page'])){
+    $currentPage = $_GET['page'];
+}
+require __DIR__.'/data/veille.php';
+require __DIR__.'/templates/home.tpl.php';
+?>
+
 	Veille sur réseaux sociaux : 
 	Twitter et linkedin sur profils particuliers : lister les profils
 
