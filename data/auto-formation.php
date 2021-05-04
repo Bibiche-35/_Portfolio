@@ -139,7 +139,7 @@ $dataArticleList = [
         "category" => "Apprentissage",
         "categoryColor" => "Coding" ,
         "author" => "Fabrice HURÉ" ,
-        "date" => "début 10/2020" ,
+        "date" => "début 03/2021" ,
         "content" =>  "CodinGame est un site consacré à la programmation informatique ludique, proposant d’un côté des casse-têtes de difficulté croissante à résoudre dans l’un des vingt-cinq langages de programmation disponibles, et de l’autre des jeux d’intelligence artificielle multijoueurs, ou des défis de résolution de problèmes en temps limité, ou de code golf.",
         "img" => "image/codinggame.jpg",
         "link" => "https://www.codingame.com/ide/puzzle/the-descent",
@@ -150,7 +150,7 @@ $dataArticleList = [
             "category" => "Apprentissage",
             "categoryColor" => "Coding" ,
             "author" => "Fabrice HURÉ" ,
-            "date" => "début 10/2020" ,
+            "date" => "début 02/2021" ,
             "content" =>  "Codewars est une communauté d'apprentissage pour les développeurs informatiques.</br>
             Sur la plateforme, les développeurs se perfectionnent en résolvant des exercices de programmation appelés kata1,2. </br>
             Ces exercices ciblent des compétences informatiques variées disponibles dans de nombreux langages3 et les développeurs les complètent au moyen d'un EDI en ligne4,5,6. </br>

@@ -7,7 +7,7 @@
 				<ul class="caminho">
 					<li><a href="index.php">Home</a></li>
 					<li> > </li>
-					<li><H1>COMMUNICANT SANTÉ</H1></li>
+					<li><H1>PROJET COMMUNICATION</H1></li>
 				</ul>
 
 				<div class="capa">
