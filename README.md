@@ -1,8 +1,8 @@
-# Une liste impressionnante d'outils que je pourrais avoir besoin sur le chemin vers le statut de dÃ©veloppeur senior.
+# Une liste impressionnante d'outils que je pourrais avoir besoin sur le chemin vers le statut de développeur senior.
 
-> Une liste d'outils populaires, de conseils et d'astuces pour les dÃ©veloppeurs en herbe.
+> Une liste d'outils populaires, de conseils et d'astuces pour les développeurs en herbe.
 
-> Pour ajouter au dÃ©pÃ´t, il suffit de saisir le nom, le lien et une brÃ¨ve description consultable de vos favoris. Essayez de vous limiter Ã  des produits de haut niveau que vous avez personnellement essayÃ©s et que vous recommanderiez Ã  vos amis et collÃ¨gues. Les outils que vous auriez aimÃ© connaÃ®tre Ã  vos dÃ©buts en tant que jeune dÃ©veloppeur sont Ã©galement les bienvenus !
+> Pour ajouter au dépôt, il suffit de saisir le nom, le lien et une brève description consultable de vos favoris. J'ai essayé de me limiter à des produits de haut niveau que je pourrais personnellement essayés et que je recommanderas à mes amis ou collègues. 
 
 ## Index
 
