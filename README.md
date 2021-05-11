@@ -2,9 +2,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of popular tools, tips and tricks for aspiring developers.
+> Une liste d'outils, de conseils et d'astuces populaires pour les développeurs en herbe.
 
-> To add to the repo simply grab the name, link and a short searchable description of your favorites. Try to keep it to high level products you have personally tried and would recommend to your friends and coworkers. Also tools that you wish you knew about when you were starting as a junior developer are welcomed!
+> Pour ajouter au dépôt, il suffit de saisir le nom, le lien et une brève description !
 
 ## Index
 

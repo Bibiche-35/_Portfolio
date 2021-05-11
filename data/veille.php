@@ -20,9 +20,7 @@ $dataArticleList = [
         "categoryColor" => "Veille" ,
         "author" => "Fabrice HURÉ" ,
         "date" => "début 06/2021" ,
-        "content" =>  "Sans abonnement et gratuit, Developpez.com c’est le dinosaure des sites de devs et c’est aussi là que vous allez trouver le plus d’information et de sources différentes sur le sujet. C’est aussi varié que complet et c’est extrêmement complet.<br/>
-        Ça va de l’actualité aux publications en passant par les dossiers et les tutoriels y’a de quoi lire. Et à mon grand étonnement, y’a même une section humour. Et oui on se fend la poire dans le club des développeurs. Je dirais même qu’on rit à gorge déployée entre professionnels de l’IT !<br/>
-        Alors j’y ai évidemment passé beaucoup trop de temps dans cette partie humour. Je voulais comparer avec mon expertise sur les blagues. Mon verdict c’est que tout m’a pas fait rire, mais ça reste le bien on aime la touche humour!. ",
+        "content" =>  "Sans abonnement et gratuit, Developpez.com c’est le dinosaure des sites de devs et c’est aussi là que vous allez trouver le plus d’information et de sources différentes sur le sujet. C’est aussi varié que complet et c’est extrêmement complet.",
         "img" => "image/developpez.jpg",
         "link" => "https://www.developpez.com/",
     ],
