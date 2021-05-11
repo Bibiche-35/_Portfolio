@@ -33,9 +33,22 @@ $dataArticleList = [
         "author" => "Fabrice HURÉ" ,
         "date" => "début 04/2021" ,
         "content" =>  "Blogs de développeur(euse)s francophones : <br/>
-        Liens vers les blogs de vrais développeurs... des vraies personnes, accessbile depuis mes favoris Chrome. Des gens qui partagent leur passion et qui ont plaisir à transmettre leur savoir en fonction de différentes technologies;<br/>",
-        "img" => "image/blog.jpg",
+        Liens vers les blogs de vrais développeurs... des vraies personnes, accessbile depuis mes favoris Chrome. Des gens qui partagent leur passion et qui ont plaisir à transmettre leur savoir en fonction de différentes technologies.<br/><br/>
+        Par exemple sur le blog de Jéremy dECOOL c'est là que j'ai vu qu'il avait participé à un projet de site de flux RSS open source : https://tt-rss.org/
+        ",
+        "img" => "image/blogsfrancophones.jpg",
         "link" => "image/ListeBlogsFrancophones.doc",
+        ],
+
+    25 => [
+        "title" => "Fichier README",
+        "category" => "Veille Technologique",
+        "categoryColor" => "Veille" ,
+        "author" => "Fabrice HURÉ" ,
+        "date" => "début 04/2021" ,
+        "content" =>  "Différents sujets en vrac et Certains liens sont en favoris sur mon navigateur WEB.<br/>",
+        "img" => "image/blog.jpg",
+        "link" => "https://github.com/Bibiche-35/_Portfolio/edit/master/README.md",
         ],
 
 ];

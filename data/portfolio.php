@@ -35,9 +35,9 @@ $dataArticleList = [
         "categoryColor" => "Projets" ,
         "author" => "Fabrice HURÉ" ,
         "date" => "début 04/2021" ,
-        "content" =>  "Gestion de projet: Difficultés de management, intégration nouveau membre sans communicaiton malgré mes mulitples relances</br>
-        Equipe nonsolidaire du suivi du projet : Modification de la BDD sans avertir l'équipe, Journal personnel ou d'équipe non suivi etc... à complèter</br>
-        Difficulté sur 4 semanies en distanciel : Utilisation des 4 tables genre/auteur/edition/format en dur sur l'application locale et sur la base de donnée",
+        "content" =>  "ADAPTABILITÉ : Difficultés de management, intégration nouveau membre (très timide)</br>
+        COHÉSION : Difficulté dans la cahésion d'équipe malgré mon investissmeent et mes relances : Modification de la BDD sans avertir l'équipe, Journal personnel ou Journal d'équipe non suivi etc...</br>
+        DISTANCIEL : Difficultés sur le rendu de travail en réel, par exemple : Utilisation des 4 tables genre/auteur/edition/format en dur sur l'application locale et pas sur la base de données",
         "img" => "image/ClasseUML-PouzyBook.jpeg",
         "link" => "http://travail/team-symfony/PouzyBookWeb/",
     ],
